@@ -1,0 +1,11 @@
+apt update && apt upgrade
+pkg install python2
+pip2 install mechanize
+pip2 install requests
+pkg install zip
+pkg install SETAN
+pkg install git
+git clone https://github.com/FR13ND8/BRUTEFORCEnew
+ls
+cd BRUTEFORCEnew
+sh new.sh
