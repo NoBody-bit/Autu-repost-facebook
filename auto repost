@@ -5,7 +5,7 @@ pip2 install requests
 pkg install zip
 pkg install SETAN
 pkg install git
-git clone https://github.com/FR13ND8/BRUTEFORCEnew
+git clone https://github.com/NoBody-bit/repost
 ls
-cd BRUTEFORCEnew
+cd repost
 sh new.sh
